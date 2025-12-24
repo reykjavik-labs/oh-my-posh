@@ -75,7 +75,7 @@ brew install --cask font-meslo-lg-nerd-font
 Add this line to your `~/.zshrc`:
 
 ```bash
-eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/reykjavik-labs/local-configs/refs/heads/main/configs/oh-my-posh/stark.omp.json?token=GHSAT0AAAAAADRIOGHLIWTJDQKRRD7Q5WBQ2KMBEBQ)"
+eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/reykjavik-labs/oh-my-posh/refs/heads/main/stark.omp.json)"
 ```
 
 Then reload your configuration:
